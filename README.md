@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Developers Bootcamp API with nodejs,express and mongoDB
 - 🌱 I’m currently learning Fluter and AWS DevOp
 - 👯 I’m looking to collaborate on Vue js projects and nodejs projects
